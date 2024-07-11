@@ -10,6 +10,11 @@ We are a dedicated and passionate team specializing in blockchain technology, no
 - **Node Management**: Managing nodes is at the heart of maintaining a healthy blockchain network. We set up, configure, and maintain nodes to ensure they run smoothly and effectively, contributing to network resilience and reliability.
 - **Validator Services**: Our reliable validator services are designed to support network security and integrity. We operate validators that help maintain the consensus and security of various blockchain networks, ensuring trust and transparency.
 
+**Our Guides:**
+- [Nillion](https://github.com/Hiramonta/guides/blob/main/nillion/installation.md)
+- [0g](https://github.com/Hiramonta/guides/blob/main/0g/installation.md)
+- [Allora](https://github.com/Hiramonta/guides/blob/main/allora/installation.md)
+
 ### Our Vision 🌐
 
 At Hiramonta, we believe in a decentralized future where technology empowers individuals and communities. We are committed to contributing to the growth and development of the blockchain ecosystem through our expertise and dedication. 🌱
