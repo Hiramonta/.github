@@ -11,6 +11,7 @@ We are a dedicated and passionate team specializing in blockchain technology, no
 - **Validator Services**: Our reliable validator services are designed to support network security and integrity. We operate validators that help maintain the consensus and security of various blockchain networks, ensuring trust and transparency.
 
 **Our Guides:**
+- [Airchains](https://github.com/Hiramonta/Airchains-validator-guide)
 - [Nillion](https://github.com/Hiramonta/guides/blob/main/nillion/installation.md)
 - [0g](https://github.com/Hiramonta/guides/blob/main/0g/installation.md)
 - [Allora](https://github.com/Hiramonta/guides/blob/main/allora/installation.md)
